@@ -1,4 +1,4 @@
-# Projeto de Estudo de API com Node.js e React.js
+# Projeto de Estudo de API com Node.js
 
 ## Descrição
 
