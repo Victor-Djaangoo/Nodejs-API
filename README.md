@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Este projeto é um caso de estudo onde apliquei alguns conceitos fundamentais do protocolo HTTP, como os métodos GET, PUT, POST e DELETE. A API foi desenvolvida em **Node.js** e será consumida por um projeto simples em **React.js**.
+Este projeto é um caso de estudo onde apliquei alguns conceitos fundamentais do protocolo HTTP, como os métodos GET, PUT, POST e DELETE. A API foi desenvolvida em **Node.js** e será consumida por um projeto simples em **React.js**: https://github.com/Victor-Djaangoo/React-Form
 
 ## Tecnologias Utilizadas
 
